@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Crude Oil Purification",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidOil",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 100
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PurifiedCrudeOil",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_LiquidRawSludge",
+            "Amount": 100000
+        }
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 23,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_5"
+    ]
+}

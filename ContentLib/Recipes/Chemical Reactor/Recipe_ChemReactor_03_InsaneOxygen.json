@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Oxygen",
+    "Ingredients": [
+        {
+            "Item": "Desc_Air",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Res_GasOxygen",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_Methane",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_Coal",
+            "Amount": 100
+        }
+    ],
+    "OverrideCategory": "InsaneFluids",    
+    "ManufacturingMenuPriority": 3,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_6"
+    ]
+}

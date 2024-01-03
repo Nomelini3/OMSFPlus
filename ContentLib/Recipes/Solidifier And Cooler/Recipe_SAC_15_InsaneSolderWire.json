@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Solder Wire",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidSolder",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SolderWire",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_SolderRod",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Gas_Steam",
+            "Amount": 100000
+        }
+        
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 15,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_5"
+    ]
+}

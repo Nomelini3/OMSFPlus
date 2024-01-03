@@ -1,0 +1,42 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Expert Conveyor Belt",
+    "Ingredients": [
+        {
+            "Item": "Desc_AluminumCasing",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_BeltItemMk3",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_NitricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_BeltItemMk4",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Gas_Steam",
+            "Amount": 100000
+        }
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 2,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_7"
+    ]
+}

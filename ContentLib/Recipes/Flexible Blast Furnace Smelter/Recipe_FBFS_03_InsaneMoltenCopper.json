@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Molten Copper",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidCopper",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 100000
+        }
+    ],
+    "OverrideCategory": "InsaneFluids",    
+    "ManufacturingMenuPriority": 3,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_3"
+    ]
+}

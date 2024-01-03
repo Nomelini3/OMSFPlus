@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Desulfurization",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidHydrocarbons",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidRefinedHydrocarbons",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_Sulfur",
+            "Amount": 100
+        }
+    ],
+    "OverrideCategory": "InsaneFluids",    
+    "ManufacturingMenuPriority": 10,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_5"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Petroleum Coke",
+    "Ingredients": [
+        {
+            "Item": "Desc_HeavyOilResidue",
+            "Amount": 10000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 100
+        }
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 18,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_5"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Crotinnium Ore",
+    "Ingredients": [
+        {
+            "Item": "Desc_SlugSlime_Mineral",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Res_CrotiniumOre",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_SlugSlime_Low",
+            "Amount": 100000
+        }
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 5,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Colider",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_8"
+    ]
+}

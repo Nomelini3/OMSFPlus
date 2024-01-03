@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane T1: Sorted Stiratite",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedStritarit",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_CrushedMagnesium",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_CrushedLimestone",
+            "Amount": 100
+        }
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 1,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_2"
+    ]
+}

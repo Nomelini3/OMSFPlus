@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Molten Lead",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidLead",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 100000
+        }
+    ],
+    "OverrideCategory": "InsaneFluids",    
+    "ManufacturingMenuPriority": 11,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_3"
+    ]
+}

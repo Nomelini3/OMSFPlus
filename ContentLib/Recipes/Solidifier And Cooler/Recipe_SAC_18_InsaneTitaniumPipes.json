@@ -1,0 +1,43 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Titanium Pipes",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidTitan",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_PetroleumCoke",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TitanPipe",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_TitanPlates",
+            "Amount": 100
+        },
+        {
+            "Item": "Desc_NitrogenGas",
+            "Amount": 100000
+        }
+        
+    ],
+    "OverrideCategory": "InsaneItems",    
+    "ManufacturingMenuPriority": 18,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_8"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Insane Rocket Fuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_NitricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_PackagedGasOxygen",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Fluid_RocketFuel",
+            "Amount": 100000
+        },
+        {
+            "Item": "Desc_GasTank",
+            "Amount": 100
+        }
+    ],
+    "OverrideCategory": "InsaneFluids",    
+    "ManufacturingMenuPriority": 17,
+	"ManufacturingDuration": 1,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_InsaneItems_8"
+    ]
+}
