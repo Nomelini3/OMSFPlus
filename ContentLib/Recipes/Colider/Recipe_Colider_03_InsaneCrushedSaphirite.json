@@ -22,8 +22,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_Colider",
-        "manual"
+        "Build_Colider"
     ],
     "UnlockedBy": [
         "Schematic_InsaneItems_8"

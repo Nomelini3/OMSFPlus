@@ -18,8 +18,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_Crusher",
-        "manual"
+        "Build_Crusher"
     ],
     "UnlockedBy": [
         "Schematic_Trees_Cryolit_3_2"

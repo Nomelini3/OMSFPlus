@@ -30,8 +30,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_ManufacturerMk1",
-        "manual"
+        "Build_ManufacturerMk1"
     ],
     "UnlockedBy": [
         "Schematic_Trees_Satmonium_3_5"

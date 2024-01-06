@@ -18,8 +18,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_ConstructorMk1",
-        "manual"
+        "Build_ConstructorMk1"
     ],
     "UnlockedBy": [
         "Schematic_Trees_Enemy_4_0"

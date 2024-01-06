@@ -22,8 +22,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_AssemblerMk1",
-        "manual"
+        "Build_AssemblerMk1"
     ],
     "UnlockedBy": [
         "Schematic_Trees_Sulfur_3_2"

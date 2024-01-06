@@ -18,8 +18,7 @@
 	"ManufacturingDuration": 1,
     "ManualManufacturingMultiplier": 0.5,
     "ProducedIn": [
-        "Build_SmelterMk1",
-        "manual"
+        "Build_SmelterMk1"
     ],
     "UnlockedBy": [
         "Schematic_InsaneItems_2"
