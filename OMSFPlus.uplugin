@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "Overdrive Manufacturing",
 	"Description": "",
 	"Category": "Modding",
@@ -31,5 +31,5 @@
 			"SemVersion": "^1.3.0"
 		}
 	],
-	"SemVersion": "1.0.0"
+	"SemVersion": "1.0.1"
 }

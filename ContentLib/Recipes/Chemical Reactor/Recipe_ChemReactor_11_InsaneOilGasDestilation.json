@@ -14,11 +14,11 @@
     "Products": [
         {
             "Item": "Desc_LiquidHydrocarbons",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_HeavyOilResidue",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_PackagedNaturalGas",

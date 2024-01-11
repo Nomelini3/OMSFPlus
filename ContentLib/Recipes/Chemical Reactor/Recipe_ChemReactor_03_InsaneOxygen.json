@@ -14,11 +14,11 @@
     "Products": [
         {
             "Item": "Res_GasOxygen",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_Methane",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_Coal",

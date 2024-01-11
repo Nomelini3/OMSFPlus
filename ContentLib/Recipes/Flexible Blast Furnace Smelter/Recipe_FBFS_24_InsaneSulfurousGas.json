@@ -14,7 +14,7 @@
     "Products": [
         {
             "Item": "Desc_Sulfurtrixid",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneFluids",    

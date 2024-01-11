@@ -14,7 +14,7 @@
         },
         {
             "Item": "Desc_SlugSlime_Low",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneItems",    

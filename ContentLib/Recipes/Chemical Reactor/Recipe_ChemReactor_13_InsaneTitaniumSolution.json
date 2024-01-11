@@ -18,11 +18,11 @@
     "Products": [
         {
             "Item": "Desc_LiquidTitan",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_Gas_CarbonDioxide",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneFluids",    

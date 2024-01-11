@@ -10,7 +10,7 @@
     "Products": [
         {
             "Item": "Desc_Water",
-            "Amount": 100000
+            "Amount": 50000
         } 
     ],
     "OverrideCategory": "InsaneItems",    

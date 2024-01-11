@@ -18,11 +18,11 @@
     "Products": [
         {
             "Item": "Desc_LiquidBrass",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_LiquidSlag",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneFluids",    

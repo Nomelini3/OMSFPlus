@@ -18,7 +18,7 @@
     "Products": [
         {
             "Item": "Desc_Fluid_RocketFuel",
-            "Amount": 100000
+            "Amount": 50000
         },
         {
             "Item": "Desc_GasTank",

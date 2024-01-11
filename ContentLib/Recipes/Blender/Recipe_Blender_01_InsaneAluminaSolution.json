@@ -22,7 +22,7 @@
     "Products": [
         {
             "Item": "Desc_AluminaSolution",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneFluids",    

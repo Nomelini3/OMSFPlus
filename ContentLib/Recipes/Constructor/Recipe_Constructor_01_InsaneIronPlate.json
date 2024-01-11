@@ -10,7 +10,7 @@
     "Products": [
         {
             "Item": "Desc_IronPlate",
-            "Amount": 50
+            "Amount": 100
         }
     ],
     "OverrideCategory": "InsaneItems",    

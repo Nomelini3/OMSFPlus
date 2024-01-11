@@ -18,7 +18,7 @@
     "Products": [
         {
             "Item": "Desc_LiquidHydrochloricAcid",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneFluids",    

@@ -18,7 +18,7 @@
         },
         {
             "Item": "Desc_LiquidDirtyWater",
-            "Amount": 100000
+            "Amount": 50000
         }
     ],
     "OverrideCategory": "InsaneItems",    
